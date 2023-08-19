@@ -1,1 +1,2 @@
-'Transformers_for_limit_order_books/FI2010/FI2010_train.csv' filter=lfs diff=lfs merge=lfs -text
+*FI2010_train.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
