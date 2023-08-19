@@ -1,0 +1,8 @@
+﻿  cv.cpp
+C:\Users\Kirill\source\repos\cv\cv\cv.cpp(26,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kirill\source\repos\cv\cv\cv.cpp(29,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 212 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  cv.vcxproj -> C:\Users\Kirill\source\repos\cv\x64\Release\cv.exe
